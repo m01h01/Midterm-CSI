@@ -1,0 +1,146 @@
+
+html{
+    font-size: 15px;;
+    background-color: lightgray;
+}
+
+header{
+    text-align: center;
+    background-color:burlywood;
+    padding: 1rem;
+}
+
+a{
+    text-decoration: none;
+    font-size: 4rem;
+    text-shadow: 2px 2px black ;
+    padding: 1.5rem;
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.climate-justice img{
+    width: 100%;
+    height: 700px;
+}
+
+.climate-justice-text{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    text-shadow: 2px 2px black ;
+    color: white;
+    text-align: left;
+    letter-spacing: 0.2rem;
+    font-size: 3vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.climate-justice h4{
+    font-size: 2vw;
+    padding: 4px;
+}
+
+.climate-change-info{
+    text-align: center;
+}
+
+.climate-change-info h2{
+    font-size: 3vw;
+}
+
+.climate-change-info h4{
+    font-size: 1.5vw;
+}
+
+#box-container{
+    text-align: justify;
+    margin: 1rem auto;
+    padding: 1rem;
+    display: grid ;
+    grid-auto-flow:row;
+    gap: 10px;
+}
+
+.box{
+   background-color: whitesmoke;
+}
+
+.box p{
+
+    font-size:1vw;
+}
+
+.box h5{
+    font-size: 1.8vw;
+   font-weight:500;
+    margin:0.5rem;
+}
+
+.box p{
+    padding: 20px;
+    font-size: 1.5rem;;
+}
+
+.box td{
+   content:normal;
+}
+
+.impact-heading{
+
+    text-align: center;
+}
+
+.box img{
+    
+    width: 350px;
+    height: 260px;
+}
+
+.technology-solution h2{
+    font-size: 3vw;
+    color: blue;
+    text-align: center;
+}
+
+.technology-solution p{
+    text-align:justify;
+    font-size: 1.5vw;
+}
+
+.grid-container{
+    text-align: justify;
+    margin: 2rem auto;
+    display: grid ;
+    grid-auto-flow:column;
+    gap: 70px;
+}
+
+.grid-container h4{
+
+    font-size: 1.5vw;
+    text-decoration: underline;
+}
+
+.grid-container h5{
+
+    font-size: 1.5vw;
+    color:blue;
+}
+
+.grid-container h6{
+
+    font-size: 1vw;
+}
+
+footer{
+    text-align: center;
+    font-size: 1rem;
+}
+
+   
+
+
+
+
+
