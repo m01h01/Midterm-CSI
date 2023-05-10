@@ -36,6 +36,10 @@ a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+span{
+
+    text-transform: uppercase;
+}
 .climate-justice h4{
     font-size: 2vw;
     padding: 4px;
