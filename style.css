@@ -10,7 +10,7 @@ header{
     padding: 1rem;
 }
 
-a{
+a {
     text-decoration: none;
     font-size: 4rem;
     text-shadow: 2px 2px black ;
@@ -57,7 +57,7 @@ span{
     font-size: 1.5vw;
 }
 
-#box-container{
+#impacts-box-container{
     text-align: justify;
     margin: 1rem auto;
     padding: 1rem;
@@ -71,8 +71,8 @@ span{
 }
 
 .box p{
-
-    font-size:1vw;
+    padding: 20px;
+    font-size:1.4vw;
 }
 
 .box h5{
@@ -81,18 +81,8 @@ span{
     margin:0.5rem;
 }
 
-.box p{
-    padding: 20px;
-    font-size: 1.5rem;;
-}
-
 .box td{
    content:normal;
-}
-
-.impact-heading{
-
-    text-align: center;
 }
 
 .box img{
@@ -112,7 +102,7 @@ span{
     font-size: 1.5vw;
 }
 
-.grid-container{
+.solutions-grid-container{
     text-align: justify;
     margin: 2rem auto;
     display: grid ;
@@ -120,19 +110,19 @@ span{
     gap: 70px;
 }
 
-.grid-container h4{
+.solutions-grid-container h4{
 
     font-size: 1.5vw;
     text-decoration: underline;
 }
 
-.grid-container h5{
+.solutions-grid-container h5{
 
     font-size: 1.5vw;
     color:blue;
 }
 
-.grid-container h6{
+.solutions-grid-container h6{
 
     font-size: 1vw;
 }
